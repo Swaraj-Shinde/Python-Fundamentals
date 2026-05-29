@@ -59,4 +59,3 @@ print(f'{greeting.lower()} {name} Shinde')
 #Topic 8: to find what functions we can use with a variable
 print(dir(message))
 print(help(str.lower)) #to get help regarding specific function
-
